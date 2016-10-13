@@ -14,7 +14,9 @@ $(function(){
 
   var puppies = [
     new models.Puppy({name: 'Crusoe', image: 'http://www.celebritydachshund.com/wp-content/uploads/2016/04/Dr.-Crusoe-1.jpg'}),
-    new models.Puppy({name: 'Sherlock', image: 'http://images6.fanpop.com/image/photos/33000000/Hipster-Puppy-puppies-33066415-246-310.jpg'})
+    new models.Puppy({name: 'Sherlock', image: 'http://images6.fanpop.com/image/photos/33000000/Hipster-Puppy-puppies-33066415-246-310.jpg'}),
+    new models.Puppy({name: 'Nibble', image: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg'}),
+    new models.Puppy({name: 'Sleepy', image: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg'})
   ];
 
   var context = {
