@@ -13,7 +13,7 @@ $(function(){
   var favoritePuppy;
 
   var puppies = [
-    new models.Puppy({name: 'Ben', image: 'http://28.media.tumblr.com/tumblr_lhdu1cg0CC1qb0fx9o1_500.jpg'}),
+    new models.Puppy({name: 'Crusoe', image: 'http://www.celebritydachshund.com/wp-content/uploads/2016/04/Dr.-Crusoe-1.jpg'}),
     new models.Puppy({name: 'Sherlock', image: 'http://images6.fanpop.com/image/photos/33000000/Hipster-Puppy-puppies-33066415-246-310.jpg'})
   ];
 
